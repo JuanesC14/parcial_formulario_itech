@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXISTS inscriptores (
   fecha_formulario DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
--- países centroamericanos
+-- países
 INSERT INTO countries (name) VALUES
 ('Panamá'),
 ('Costa Rica'),

@@ -15,7 +15,7 @@ body {
     box-shadow: 0 0 15px rgba(0,0,0,0.4);
 }
 
-/* Título principal destacado */
+/* Título principal */
 h2 {
     text-align: center;
     font-weight: bold;
@@ -52,7 +52,7 @@ textarea {
     height: 120px;
 }
 
-/* Filas horizontales mejoradas */
+/* Filas horizontales */
 .fila-horizontal {
     display: flex;
     gap: 20px;
@@ -70,7 +70,7 @@ textarea {
     font-size: 14px;
 }
 
-/* Cuadro especial para Checklist */
+/* Cuadro de Checklist */
 .checklist-box {
     padding: 18px;
     background: rgba(255,255,255,0.08);
@@ -80,7 +80,7 @@ textarea {
     margin-bottom: 20px;
 }
 
-/* Título del checklist destacado */
+/* Título del checklist */
 .checklist-box label {
     font-size: 18px;
     font-weight: bold;
